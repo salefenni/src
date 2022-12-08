@@ -19,7 +19,7 @@ public class SchoolSystem implements ISignUp {
 			else if(stuType==2 && medium>0) {
 				System.out.println("加入中班");
 				medium--;
-			}
+			}//88949494949
 			else if(stuType==3 && small>0) {
 				System.out.println("加入小班");
 				small--;
