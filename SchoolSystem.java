@@ -38,6 +38,7 @@ public class SchoolSystem implements ISignUp {
 			}
 			return false;
 		}
+		
 		 
 	
 
@@ -47,7 +48,7 @@ public class SchoolSystem implements ISignUp {
 		       sc.addStudent(2);
 		       sc.addStudent(3);
 		       sc.addStudent(1);
-		       System.out.println(sc.print());
+		       System.out.println(sc.print());//454686486468
 		}
 	
 
