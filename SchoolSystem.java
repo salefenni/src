@@ -5,7 +5,7 @@ public class SchoolSystem implements ISignUp {
     private   int medium;
     private   int small;
   
-		public SchoolSystem(int big, int medium, int small) {
+		public SchoolSystem(int big, int medium, int small) {//24562456
 			this.big=big;
 			this.medium=medium;
 			this.small=small;
